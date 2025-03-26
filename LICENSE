@@ -1,21 +1,17 @@
-MIT License
+Custom Binary-Only License
 
 Copyright (c) 2024 Tadeáš Tóth (Carrajaula)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This library is provided in compiled binary form (DLL) only, for internal use by [Company Name] as part of a one-time delivery milestone.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+No rights are granted to:
+- Modify, reverse-engineer, decompile, or otherwise alter the binary
+- Redistribute the library in any form
+- Use the source code, should it become available, for any other purpose
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is granted to use the provided DLL as-is within the scope of the original deliverable only. No license is granted to extend or modify its functionality.
+
+All rights not expressly granted are reserved by the author.
+
+For licensing inquiries or further use beyond this scope, contact:
+Tadeáš Tóth (Carrajaula)
